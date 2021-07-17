@@ -130,3 +130,6 @@ dmypy.json
 
 # Documents
 *.docx
+
+# pycharm
+.idea/
